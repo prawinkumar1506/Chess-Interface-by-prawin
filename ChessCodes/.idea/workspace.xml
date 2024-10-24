@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fb778e0-465e-4555-b04d-ef27bebd252a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChessCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChessCodes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessCodes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ChessGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Mouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MouseClickListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/TestBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/bk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/bn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/bp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/bq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/br.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/wb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/wk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/wn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/wp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/wq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/res/piece/wr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Bishop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Bishop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/ChessBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/ChessBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/ChessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/ChessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/ChessPiece.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/ChessPiece.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/King.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/King.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Knight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Knight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/MouseClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/MouseClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Pawn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Pawn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Queen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Queen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/Rook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/Rook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ChessCodes/main/TestBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/ChessCodes/main/TestBoard.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prawinkumar1506"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prawinkumar1506/ChessCodes.git",
+    "accountId": "04044175-a065-4e86-975e-9e41ff6e6bd5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nFSHWPYVtbHWiFsN95iwONyw4W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChessGame.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/balaj/Downloads/ChessCodes/ChessCodes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ninja/Desktop/Codes/OOP/Chess/ChessCodes/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fb778e0-465e-4555-b04d-ef27bebd252a" name="Changes" comment="" />
+      <created>1728567248576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728567248576</updated>
+      <workItem from="1729748799363" duration="823000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
